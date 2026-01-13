@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.geradoresbrasil.com.br/sitemap.xml

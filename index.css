@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Default Fallback Colors */
+  --site-primary: #0ea5e9;
+  --site-secondary: #f59e0b;
+  --site-accent: #f59e0b;
+  --site-background: #ffffff;
+  --site-foreground: #1a1a1a;
+  
+  /* Automatic Variations */
+  --site-primary-light: color-mix(in srgb, var(--site-primary) 85%, white);
+  --site-primary-dark: color-mix(in srgb, var(--site-primary) 85%, black);
+}
+
+body {
+  background-color: var(--site-background);
+  color: var(--site-foreground);
+}
