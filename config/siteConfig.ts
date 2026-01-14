@@ -336,16 +336,19 @@ export const defaultSiteData: SiteData = {
   ],
   locations: [
     {
-      id: 'loc-1768417630395',
+      id: 'loc-1768418935024',
       slug: 'recreio-dos-bandeirantes',
-      name: 'Recreio dos Bandeirantes',
+      name: 'Recreio dos bandeirantes',
       city: 'Rio de Janeiro',
       state: 'RJ',
-      headline: 'Serviços profissionais Recreio dos Bandeirantes',
+      headline: 'Serviços profissionais Recreio dos Bandeirantes ',
       description: 'Serviços profissionais Recreio dos Bandeirantes descrição',
       serviceIds: [
-        'gerador-silencioso',
+        'gerador-para-eventos',
       ],
+      isActive: true,
+    }
+  ],
       isActive: true,
     }
   ],
