@@ -31,14 +31,14 @@ export const defaultSiteData: SiteData = {
   pages: {
     home: {
       hero: { 
-        title: 'Aluguel de Geradores no Rio de Janeiro: Atendimento Imediato', 
-        subtitle: 'Sua operação não pode parar. Garantimos energia em até 2 horas com instalação inclusa, monitoramento 24h e frota própria. Atendemos emergências, eventos e obras.', 
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS', 
+        subtitle: 'Aluguel de Geradores no Rio de Janeiro: CMS', 
         ctaText: 'Solicitar Orçamento Urgente', 
         ctaLink: '/contato',
         backgroundImage: 'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?q=80&w=1920&auto=format&fit=crop'
       },
       about: { 
-        title: 'Por que escolher a Geradores Brasil?', 
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS', 
         description: 'Há mais de 10 anos atendendo Rio de Janeiro e região com excelência. Nossa missão é resolver seu problema de energia com rapidez, transparência e total garantia de funcionamento. Não deixamos você no escuro.', 
         highlights: [
           { icon: 'Clock', value: '24h', label: 'Plantão Técnico' },
@@ -47,8 +47,8 @@ export const defaultSiteData: SiteData = {
           { icon: 'Shield', value: '100%', label: 'Garantia de Energia' }
         ] 
       },
-      services: { title: 'Nossos Serviços', subtitle: 'Potência e confiabilidade: Soluções completas para sua residência, comércio ou indústria' },
-      contact: { title: 'Fale Conosco Agora', subtitle: 'Orçamento grátis e sem compromisso. Equipe pronta para atender hoje!', formTitle: 'Garanta sua Energia Agora' },
+      services: { title: 'Aluguel de Geradores no Rio de Janeiro: CMS', subtitle: 'Aluguel de Geradores no Rio de Janeiro: CMS' },
+      contact: { title: 'Aluguel de Geradores no Rio de Janeiro: CMS', subtitle: 'Aluguel de Geradores no Rio de Janeiro: CMS', formTitle: 'Garanta sua Energia Agora' },
     },
   },
   services: [
@@ -61,9 +61,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Ideal para comércios, residências e pequenos eventos. Baixo consumo e instalação rápida.', 
       benefits: ['Instalação em até 2 horas', 'Autonomia de 12 horas', 'Baixo nível de ruído', 'Cabeamento incluso'], 
       howItWorks: [
-        { number: 1, title: 'Contato', description: 'Chame no WhatsApp e receba a cotação imediata.' },
-        { number: 2, title: 'Logística', description: 'Entregamos e instalamos no seu endereço.' },
-        { number: 3, title: 'Operação', description: 'Equipamento pronto para uso com tanque cheio.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Chame no WhatsApp e receba a cotação imediata.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Entregamos e instalamos no seu endereço.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Equipamento pronto para uso com tanque cheio.' }
       ], 
       faqs: [
         { question: 'O que o 20kVA suporta?', answer: 'Suporta ar-condicionado, geladeiras, computadores e iluminação básica.' },
@@ -81,9 +81,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Robustez para obras médias, restaurantes e eventos corporativos. Estabilidade garantida.', 
       benefits: ['Suporta picos de energia', 'Tanque de alta capacidade', 'Manutenção preventiva inclusa', 'Técnico de plantão'], 
       howItWorks: [
-        { number: 1, title: 'Dimensionamento', description: 'Avaliamos sua carga para garantir o modelo certo.' },
-        { number: 2, title: 'Instalação', description: 'Montagem completa com quadro de transferência.' },
-        { number: 3, title: 'Suporte', description: 'Monitoramento remoto durante o uso.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Avaliamos sua carga para garantir o modelo certo.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Montagem completa com quadro de transferência.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Monitoramento remoto durante o uso.' }
       ], 
       faqs: [
         { question: 'Serve para solda?', answer: 'Sim, suporta máquinas de solda e betoneiras.' },
@@ -101,9 +101,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Alta capacidade para indústrias, mercados e condomínios. Acionamento automático.', 
       benefits: ['Acionamento automático (QTA)', 'Silenciado (carenado)', 'Monitoramento de telemetria', 'Contrato mensal flexível'], 
       howItWorks: [
-        { number: 1, title: 'Visita Técnica', description: 'Análise local para instalação segura.' },
-        { number: 2, title: 'Implantação', description: 'Instalação do QTA e testes de carga.' },
-        { number: 3, title: 'Garantia', description: 'Manutenção full-service inclusa no contrato.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Análise local para instalação segura.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Instalação do QTA e testes de carga.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Manutenção full-service inclusa no contrato.' }
       ], 
       faqs: [
         { question: 'É cabinado?', answer: 'Sim, todos nossos modelos 100kVA são cabinados e silenciados.' },
@@ -121,9 +121,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Potência crítica para hospitais, grandes eventos e shoppings. Confiabilidade total.', 
       benefits: ['Alta confiabilidade', 'Paralelismo disponível', 'Atendimento VIP 24h', 'Backup imediato'], 
       howItWorks: [
-        { number: 1, title: 'Engenharia', description: 'Projeto elétrico temporário completo.' },
-        { number: 2, title: 'Logística Pesada', description: 'Transporte com munck e posicionamento.' },
-        { number: 3, title: 'Comissionamento', description: 'Testes rigorosos antes do início da operação.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Projeto elétrico temporário completo.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Transporte com munck e posicionamento.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Testes rigorosos antes do início da operação.' }
       ], 
       faqs: [
         { question: 'Faz paralelismo?', answer: 'Sim, podemos somar potências conforme necessidade.' },
@@ -141,9 +141,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Tecnologia Silent para filmagens e eventos noturnos. Ruído imperceptível.', 
       benefits: ['Super silenciado (<75dB)', 'Estabilidade para equipamentos sensíveis', 'Visual discreto', 'Cabos emborrachados'], 
       howItWorks: [
-        { number: 1, title: 'Reserva', description: 'Agende com antecedência para garantir disponibilidade.' },
-        { number: 2, title: 'Posicionamento', description: 'Instalamos onde o ruído incomode menos.' },
-        { number: 3, title: 'Silêncio', description: 'Energia garantida sem atrapalhar seu som.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Agende com antecedência para garantir disponibilidade.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Instalamos onde o ruído incomode menos.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Energia garantida sem atrapalhar seu som.' }
       ], 
       faqs: [
         { question: 'Atrapalha gravação?', answer: 'Não, é específico para audiovisual e eventos.' },
@@ -161,9 +161,9 @@ export const defaultSiteData: SiteData = {
       shortDescription: 'Kit completo para eventos: gerador, cabos, passadeiras e técnico presencial.', 
       benefits: ['Técnico presencial (stand-by)', 'Passadeiras de segurança', 'Cabos extras inclusos', 'Backup de emergência'], 
       howItWorks: [
-        { number: 1, title: 'Planejamento', description: 'Reunião técnica com produção do evento.' },
-        { number: 2, title: 'Montagem', description: 'Instalação antecipada para passagem de som.' },
-        { number: 3, title: 'Plantão', description: 'Técnico no local durante todo o evento.' }
+        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Reunião técnica com produção do evento.' },
+        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Instalação antecipada para passagem de som.' },
+        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: CMS', description: 'Técnico no local durante todo o evento.' }
       ], 
       faqs: [
         { question: 'Inclui combustível?', answer: 'Sim, entregamos tanque cheio para o período.' },
@@ -235,19 +235,19 @@ export const defaultSiteData: SiteData = {
     },
     pages: {
       home: {
-        title: 'Geradores Brasil | Aluguel de Geradores em Rio de Janeiro',
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS',
         description: 'Aluguel de geradores no RJ. 20kva a 500kva. Instalação inclusa. Solicite orçamento!',
       },
       sobre: {
-        title: 'Sobre Nós',
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS',
         description: 'Conheça a Geradores Brasil, especialista em aluguel de geradores em Rio de Janeiro.',
       },
       contato: {
-        title: 'Contato',
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS',
         description: 'Entre em contato com a Geradores Brasil. Orçamento grátis para aluguel de geradores em Rio de Janeiro.',
       },
       servicos: {
-        title: 'Nossos Serviços',
+        title: 'Aluguel de Geradores no Rio de Janeiro: CMS',
         description: 'Confira todos os serviços de aluguel de geradores oferecidos pela Geradores Brasil em Rio de Janeiro.',
       },
     },
