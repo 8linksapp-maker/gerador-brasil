@@ -19,9 +19,9 @@ export const defaultSiteData: SiteData = {
       googleMyBusiness: 'https://g.page/geradoresbrasil'
     },
     colors: { 
-      primary: '#7c3aed', // Sky 500
-      secondary: '#a855f7', // Slate 500
-      accent: '#ec4899', // Amber 500
+      primary: '#dc2626', // Sky 500
+      secondary: '#ea580c', // Slate 500
+      accent: '#facc15', // Amber 500
       background: '#f8fafc', // Slate 50
       foreground: '#0f172a' // Slate 900
     },
