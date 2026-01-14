@@ -174,53 +174,18 @@ export const defaultSiteData: SiteData = {
     }
   ],
   locations: [
-    { 
-      id: '1', 
-      slug: 'rio-de-janeiro-barra-da-tijuca', 
-      neighborhood: 'Barra da Tijuca', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores na Barra da Tijuca - Chegamos Rápido', 
-      description: 'Sua empresa ou evento na Barra precisa de energia agora? Temos base técnica no bairro para atendimento expresso. Aluguel de geradores na Barra da Tijuca com o melhor preço e instalação imediata para condomínios, shoppings e eventos na orla. Solicite orçamento grátis.' 
-    },
-    { 
-      id: '2', 
-      slug: 'rio-de-janeiro-recreio', 
-      neighborhood: 'Recreio', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores no Recreio dos Bandeirantes', 
-      description: 'Atendimento especializado para obras e eventos no Recreio. A Geradores Brasil oferece locação de equipamentos silenciosos ideais para a região residencial e casas de festas do bairro. Entrega rápida e suporte técnico 24h no Recreio.' 
-    },
-    { 
-      id: '3', 
-      slug: 'rio-de-janeiro-jacarepagua', 
-      neighborhood: 'Jacarepaguá', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores em Jacarepaguá e Região Olímpica', 
-      description: 'Atendemos toda a extensão de Jacarepaguá, da Freguesia ao RioCentro. Soluções robustas para indústrias farmacêuticas, estúdios e grandes condomínios da região. Garanta a produtividade da sua empresa com nossos geradores de alta potência.' 
-    },
-    { 
-      id: '4', 
-      slug: 'rio-de-janeiro-centro', 
-      neighborhood: 'Centro', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores no Centro do Rio - Plantão 24h', 
-      description: 'Atendimento corporativo para o Centro do Rio. Geradores para prédios comerciais, bancos e manutenções prediais programadas. Possuímos licenças para circulação e operação na área central, inclusive aos finais de semana e feriados.' 
-    },
-    { 
-      id: '5', 
-      slug: 'rio-de-janeiro-meier', 
-      neighborhood: 'Méier', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores no Méier e Zona Norte', 
-      description: 'Referência em aluguel de geradores na Zona Norte. Do Méier a Madureira, levamos energia segura para seu comércio ou festa. Preços competitivos e facilidade de pagamento para comerciantes locais. Não perca mercadoria por falta de luz.' 
-    },
-    { 
-      id: '6', 
-      slug: 'rio-de-janeiro-niteroi', 
-      neighborhood: 'Niterói', 
-      city: 'Rio de Janeiro', 
-      headline: 'Aluguel de Geradores em Niterói e Icaraí', 
-      description: 'Atravessamos a ponte para te atender! Serviço completo de locação de geradores em Niterói, Icaraí e Região Oceânica. Frota exclusiva para atendimento do lado de lá da poça, garantindo pontualidade e excelência técnica.' 
+    {
+      id: 'loc-1768417630395',
+      slug: 'recreio-dos-bandeirantes',
+      name: 'Recreio dos Bandeirantes',
+      city: 'Rio de Janeiro',
+      state: 'RJ',
+      headline: 'Serviços profissionais Recreio dos Bandeirantes',
+      description: 'Serviços profissionais Recreio dos Bandeirantes descrição',
+      serviceIds: [
+        'gerador-silencioso',
+      ],
+      isActive: true,
     }
   ],
   seo: {
