@@ -4,7 +4,7 @@ export const defaultSiteData: SiteData = {
   id: 'local-site',
   domain: 'localhost',
   settings: {
-    companyName: 'Geradores Brasil',
+    companyName: 'Geradores Brasil Bruno Medeiros',
     slogan: 'Geradores de alta potência com instalação inclusa. Atendemos eventos, obras e indústrias.',
     logoUrl: 'https://geradoresbrasil.com.br/logo.png',
     contact: {
@@ -31,14 +31,14 @@ export const defaultSiteData: SiteData = {
   pages: {
     home: {
       hero: { 
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', 
-        subtitle: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', 
+        title: 'Aluguel de Geradores em São Paulo', 
+        subtitle: 'Aluguel de Geradores em São Paulo', 
         ctaText: 'Solicitar Orçamento Urgente', 
         ctaLink: '/contato',
         backgroundImage: 'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?q=80&w=1920&auto=format&fit=crop'
       },
       about: { 
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', 
+        title: 'Aluguel de Geradores em São Paulo', 
         description: 'Há mais de 10 anos atendendo Rio de Janeiro e região com excelência. Nossa missão é resolver seu problema de energia com rapidez, transparência e total garantia de funcionamento. Não deixamos você no escuro.', 
         highlights: [
           { icon: 'Clock', value: '24h', label: 'Plantão Técnico' },
@@ -47,17 +47,17 @@ export const defaultSiteData: SiteData = {
           { icon: 'Shield', value: '100%', label: 'Garantia de Energia' }
         ] 
       },
-      services: { title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', subtitle: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros' },
-      contact: { title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', subtitle: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', formTitle: 'Garanta sua Energia Agora' },
+      services: { title: 'Aluguel de Geradores em São Paulo', subtitle: 'Aluguel de Geradores em São Paulo' },
+      contact: { title: 'Aluguel de Geradores em São Paulo', subtitle: 'Aluguel de Geradores em São Paulo', formTitle: 'Garanta sua Energia Agora' },
     },
   },
   services: [
     {
       id: '1',
       slug: 'gerador-20kva',
-      name: 'Gerador 20kVA',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Precisa de um gerador compacto e eficiente? O modelo de 20kVA é a solução perfeita para pequenos comércios, food trucks, e residências. A Geradores Brasil oferece equipamentos revisados, com baixo consumo de combustível e nível de ruído reduzido. Garantimos a instalação rápida para que você não perca vendas nem conforto.',
-      headline: 'Gerador 20kVA no Rio de Janeiro - Ideal para Pequenos Negócios',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Cotar 20kVA Agora',
       image: 'https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -67,9 +67,9 @@ export const defaultSiteData: SiteData = {
         'Cabeamento incluso',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Chame no WhatsApp e receba a cotação imediata.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Entregamos e instalamos no seu endereço.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Equipamento pronto para uso com tanque cheio.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Chame no WhatsApp e receba a cotação imediata.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Entregamos e instalamos no seu endereço.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Equipamento pronto para uso com tanque cheio.' },
       ],
       faqs: [
         { question: 'O que o 20kVA suporta?', answer: 'Suporta ar-condicionado, geladeiras, computadores e iluminação básica.' },
@@ -79,9 +79,9 @@ export const defaultSiteData: SiteData = {
     {
       id: '2',
       slug: 'gerador-50kva',
-      name: 'Gerador 50kVA',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Segurança energética para sua obra ou evento corporativo. O gerador de 50kVA suporta múltiplos equipamentos simultâneos, garantindo estabilidade para som, iluminação e maquinário leve. Nossos técnicos realizam o dimensionamento de carga para garantir que nada falhe durante sua operação.',
-      headline: 'Gerador 50kVA Potente - Para Obras e Eventos Médios',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Cotar 50kVA Agora',
       image: 'https://images.unsplash.com/photo-1581094794329-cd1096a7a5e1?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -91,9 +91,9 @@ export const defaultSiteData: SiteData = {
         'Técnico de plantão',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Avaliamos sua carga para garantir o modelo certo.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Montagem completa com quadro de transferência.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Monitoramento remoto durante o uso.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Avaliamos sua carga para garantir o modelo certo.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Montagem completa com quadro de transferência.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Monitoramento remoto durante o uso.' },
       ],
       faqs: [
         { question: 'Serve para solda?', answer: 'Sim, suporta máquinas de solda e betoneiras.' },
@@ -103,9 +103,9 @@ export const defaultSiteData: SiteData = {
     {
       id: '3',
       slug: 'gerador-100kva',
-      name: 'Gerador 100kVA',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Energia ininterrupta para indústrias, supermercados e grandes edifícios. O gerador de 100kVA é projetado para regime contínuo ou de emergência. Com a Geradores Brasil, você tem a certeza de um equipamento moderno, com QTA (Quadro de Transferência Automática) que assume a carga em segundos após uma queda de energia.',
-      headline: 'Gerador 100kVA Industrial - Alta Performance',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Solicitar Orçamento 100kVA',
       image: 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -115,9 +115,9 @@ export const defaultSiteData: SiteData = {
         'Contrato mensal flexível',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Análise local para instalação segura.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalação do QTA e testes de carga.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Manutenção full-service inclusa no contrato.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Análise local para instalação segura.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalação do QTA e testes de carga.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Manutenção full-service inclusa no contrato.' },
       ],
       faqs: [
         { question: 'É cabinado?', answer: 'Sim, todos nossos modelos 100kVA são cabinados e silenciados.' },
@@ -127,9 +127,9 @@ export const defaultSiteData: SiteData = {
     {
       id: '4',
       slug: 'gerador-250kva',
-      name: 'Gerador 250kVA',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'A solução definitiva para grandes eventos, hospitais e shopping centers. Nossos grupos geradores de 250kVA oferecem confiabilidade crítica. Trabalhamos com as melhores marcas do mercado (Caterpillar, Cummins), garantindo performance superior. Atendimento prioritário para locações deste porte.',
-      headline: 'Gerador 250kVA - Potência Máxima para Grandes Demandas',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Solicitar Projeto 250kVA',
       image: 'https://images.unsplash.com/photo-1565515267326-b83321975e52?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -139,9 +139,9 @@ export const defaultSiteData: SiteData = {
         'Backup imediato',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Projeto elétrico temporário completo.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Transporte com munck e posicionamento.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Testes rigorosos antes do início da operação.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Projeto elétrico temporário completo.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Transporte com munck e posicionamento.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Testes rigorosos antes do início da operação.' },
       ],
       faqs: [
         { question: 'Faz paralelismo?', answer: 'Sim, podemos somar potências conforme necessidade.' },
@@ -151,9 +151,9 @@ export const defaultSiteData: SiteData = {
     {
       id: '5',
       slug: 'gerador-silencioso',
-      name: 'Gerador Silencioso',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Precisa de energia sem barulho? Nossa linha Silent é ideal para sets de filmagem, casamentos ao ar livre e obras noturnas em áreas residenciais. Tecnologia de isolamento acústico avançada que garante níveis de ruído abaixo de 75dB, permitindo a gravação de áudio direto ou o sono tranquilo dos vizinhos.',
-      headline: 'Gerador Silencioso para Filmagens e Áreas Residenciais',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Cotar Gerador Silencioso',
       image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -163,9 +163,9 @@ export const defaultSiteData: SiteData = {
         'Cabos emborrachados',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Agende com antecedência para garantir disponibilidade.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalamos onde o ruído incomode menos.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Energia garantida sem atrapalhar seu som.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Agende com antecedência para garantir disponibilidade.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalamos onde o ruído incomode menos.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Energia garantida sem atrapalhar seu som.' },
       ],
       faqs: [
         { question: 'Atrapalha gravação?', answer: 'Não, é específico para audiovisual e eventos.' },
@@ -175,9 +175,9 @@ export const defaultSiteData: SiteData = {
     {
       id: '6',
       slug: 'gerador-eventos',
-      name: 'Gerador para Eventos',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Especialistas em energia temporária para entretenimento. Oferecemos o kit completo: gerador, cabeamento protegido, passadeiras de segurança e quadros de distribuição. Nossa equipe acompanha o evento do início ao fim (stand-by) para garantir que luz e som funcionem perfeitamente. Experiência em casamentos, shows e feiras.',
-      headline: 'Energia para Eventos e Shows - O Show Não Pode Parar',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Garantir Energia do Evento',
       image: 'https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -187,9 +187,9 @@ export const defaultSiteData: SiteData = {
         'Backup de emergência',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Reunião técnica com produção do evento.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalação antecipada para passagem de som.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Técnico no local durante todo o evento.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Reunião técnica com produção do evento.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalação antecipada para passagem de som.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Técnico no local durante todo o evento.' },
       ],
       faqs: [
         { question: 'Inclui combustível?', answer: 'Sim, entregamos tanque cheio para o período.' },
@@ -199,9 +199,9 @@ export const defaultSiteData: SiteData = {
     {
       id: 'srv-1768417679744',
       slug: 'gerador-silencioso-recreio-dos-bandeirantes',
-      name: 'Gerador Silencioso em Recreio dos Bandeirantes',
+      name: 'Geradores Brasil Bruno Medeiros',
       description: 'Precisa de energia sem barulho? Nossa linha Silent é ideal para sets de filmagem, casamentos ao ar livre e obras noturnas em áreas residenciais. Tecnologia de isolamento acústico avançada que garante níveis de ruído abaixo de 75dB, permitindo a gravação de áudio direto ou o sono tranquilo dos vizinhos. Atendemos Recreio dos Bandeirantes e toda a região de Rio de Janeiro.',
-      headline: 'Gerador Silencioso em Recreio dos Bandeirantes - Rio de Janeiro',
+      headline: 'Aluguel de Geradores em São Paulo',
       ctaText: 'Cotar Gerador Silencioso',
       image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=800&auto=format&fit=crop',
       benefits: [
@@ -211,9 +211,9 @@ export const defaultSiteData: SiteData = {
         'Cabos emborrachados',
       ],
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Agende com antecedência para garantir disponibilidade.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalamos onde o ruído incomode menos.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Energia garantida sem atrapalhar seu som.' },
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Agende com antecedência para garantir disponibilidade.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalamos onde o ruído incomode menos.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Energia garantida sem atrapalhar seu som.' },
       ],
       faqs: [
         { question: 'Atrapalha gravação?', answer: 'Não, é específico para audiovisual e eventos.' },
@@ -222,9 +222,9 @@ export const defaultSiteData: SiteData = {
     }
   ], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Chame no WhatsApp e receba a cotação imediata.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Entregamos e instalamos no seu endereço.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Equipamento pronto para uso com tanque cheio.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Chame no WhatsApp e receba a cotação imediata.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Entregamos e instalamos no seu endereço.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Equipamento pronto para uso com tanque cheio.' }
       ], 
       faqs: [
         { question: 'O que o 20kVA suporta?', answer: 'Suporta ar-condicionado, geladeiras, computadores e iluminação básica.' },
@@ -236,15 +236,15 @@ export const defaultSiteData: SiteData = {
     { 
       id: '2', 
       slug: 'gerador-50kva', 
-      name: 'Gerador 50kVA', 
-      headline: 'Gerador 50kVA Potente - Para Obras e Eventos Médios', 
+      name: 'Geradores Brasil Bruno Medeiros', 
+      headline: 'Aluguel de Geradores em São Paulo', 
       description: 'Segurança energética para sua obra ou evento corporativo. O gerador de 50kVA suporta múltiplos equipamentos simultâneos, garantindo estabilidade para som, iluminação e maquinário leve. Nossos técnicos realizam o dimensionamento de carga para garantir que nada falhe durante sua operação.', 
       shortDescription: 'Robustez para obras médias, restaurantes e eventos corporativos. Estabilidade garantida.', 
       benefits: ['Suporta picos de energia', 'Tanque de alta capacidade', 'Manutenção preventiva inclusa', 'Técnico de plantão'], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Avaliamos sua carga para garantir o modelo certo.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Montagem completa com quadro de transferência.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Monitoramento remoto durante o uso.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Avaliamos sua carga para garantir o modelo certo.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Montagem completa com quadro de transferência.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Monitoramento remoto durante o uso.' }
       ], 
       faqs: [
         { question: 'Serve para solda?', answer: 'Sim, suporta máquinas de solda e betoneiras.' },
@@ -256,15 +256,15 @@ export const defaultSiteData: SiteData = {
     { 
       id: '3', 
       slug: 'gerador-100kva', 
-      name: 'Gerador 100kVA', 
-      headline: 'Gerador 100kVA Industrial - Alta Performance', 
+      name: 'Geradores Brasil Bruno Medeiros', 
+      headline: 'Aluguel de Geradores em São Paulo', 
       description: 'Energia ininterrupta para indústrias, supermercados e grandes edifícios. O gerador de 100kVA é projetado para regime contínuo ou de emergência. Com a Geradores Brasil, você tem a certeza de um equipamento moderno, com QTA (Quadro de Transferência Automática) que assume a carga em segundos após uma queda de energia.', 
       shortDescription: 'Alta capacidade para indústrias, mercados e condomínios. Acionamento automático.', 
       benefits: ['Acionamento automático (QTA)', 'Silenciado (carenado)', 'Monitoramento de telemetria', 'Contrato mensal flexível'], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Análise local para instalação segura.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalação do QTA e testes de carga.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Manutenção full-service inclusa no contrato.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Análise local para instalação segura.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalação do QTA e testes de carga.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Manutenção full-service inclusa no contrato.' }
       ], 
       faqs: [
         { question: 'É cabinado?', answer: 'Sim, todos nossos modelos 100kVA são cabinados e silenciados.' },
@@ -276,15 +276,15 @@ export const defaultSiteData: SiteData = {
     { 
       id: '4', 
       slug: 'gerador-250kva', 
-      name: 'Gerador 250kVA', 
-      headline: 'Gerador 250kVA - Potência Máxima para Grandes Demandas', 
+      name: 'Geradores Brasil Bruno Medeiros', 
+      headline: 'Aluguel de Geradores em São Paulo', 
       description: 'A solução definitiva para grandes eventos, hospitais e shopping centers. Nossos grupos geradores de 250kVA oferecem confiabilidade crítica. Trabalhamos com as melhores marcas do mercado (Caterpillar, Cummins), garantindo performance superior. Atendimento prioritário para locações deste porte.', 
       shortDescription: 'Potência crítica para hospitais, grandes eventos e shoppings. Confiabilidade total.', 
       benefits: ['Alta confiabilidade', 'Paralelismo disponível', 'Atendimento VIP 24h', 'Backup imediato'], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Projeto elétrico temporário completo.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Transporte com munck e posicionamento.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Testes rigorosos antes do início da operação.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Projeto elétrico temporário completo.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Transporte com munck e posicionamento.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Testes rigorosos antes do início da operação.' }
       ], 
       faqs: [
         { question: 'Faz paralelismo?', answer: 'Sim, podemos somar potências conforme necessidade.' },
@@ -296,15 +296,15 @@ export const defaultSiteData: SiteData = {
     { 
       id: '5', 
       slug: 'gerador-silencioso', 
-      name: 'Gerador Silencioso', 
-      headline: 'Gerador Silencioso para Filmagens e Áreas Residenciais', 
+      name: 'Geradores Brasil Bruno Medeiros', 
+      headline: 'Aluguel de Geradores em São Paulo', 
       description: 'Precisa de energia sem barulho? Nossa linha Silent é ideal para sets de filmagem, casamentos ao ar livre e obras noturnas em áreas residenciais. Tecnologia de isolamento acústico avançada que garante níveis de ruído abaixo de 75dB, permitindo a gravação de áudio direto ou o sono tranquilo dos vizinhos.', 
       shortDescription: 'Tecnologia Silent para filmagens e eventos noturnos. Ruído imperceptível.', 
       benefits: ['Super silenciado (<75dB)', 'Estabilidade para equipamentos sensíveis', 'Visual discreto', 'Cabos emborrachados'], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Agende com antecedência para garantir disponibilidade.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalamos onde o ruído incomode menos.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Energia garantida sem atrapalhar seu som.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Agende com antecedência para garantir disponibilidade.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalamos onde o ruído incomode menos.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Energia garantida sem atrapalhar seu som.' }
       ], 
       faqs: [
         { question: 'Atrapalha gravação?', answer: 'Não, é específico para audiovisual e eventos.' },
@@ -316,15 +316,15 @@ export const defaultSiteData: SiteData = {
     { 
       id: '6', 
       slug: 'gerador-eventos', 
-      name: 'Gerador para Eventos', 
-      headline: 'Energia para Eventos e Shows - O Show Não Pode Parar', 
+      name: 'Geradores Brasil Bruno Medeiros', 
+      headline: 'Aluguel de Geradores em São Paulo', 
       description: 'Especialistas em energia temporária para entretenimento. Oferecemos o kit completo: gerador, cabeamento protegido, passadeiras de segurança e quadros de distribuição. Nossa equipe acompanha o evento do início ao fim (stand-by) para garantir que luz e som funcionem perfeitamente. Experiência em casamentos, shows e feiras.', 
       shortDescription: 'Kit completo para eventos: gerador, cabos, passadeiras e técnico presencial.', 
       benefits: ['Técnico presencial (stand-by)', 'Passadeiras de segurança', 'Cabos extras inclusos', 'Backup de emergência'], 
       howItWorks: [
-        { number: 1, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Reunião técnica com produção do evento.' },
-        { number: 2, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Instalação antecipada para passagem de som.' },
-        { number: 3, title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros', description: 'Técnico no local durante todo o evento.' }
+        { number: 1, title: 'Aluguel de Geradores em São Paulo', description: 'Reunião técnica com produção do evento.' },
+        { number: 2, title: 'Aluguel de Geradores em São Paulo', description: 'Instalação antecipada para passagem de som.' },
+        { number: 3, title: 'Aluguel de Geradores em São Paulo', description: 'Técnico no local durante todo o evento.' }
       ], 
       faqs: [
         { question: 'Inclui combustível?', answer: 'Sim, entregamos tanque cheio para o período.' },
@@ -338,10 +338,10 @@ export const defaultSiteData: SiteData = {
     {
       id: 'loc-1768418935024',
       slug: 'recreio-dos-bandeirantes',
-      name: 'Recreio dos bandeirantes',
+      name: 'Geradores Brasil Bruno Medeiros',
       city: 'Rio de Janeiro',
       state: 'RJ',
-      headline: 'Serviços profissionais Recreio dos Bandeirantes ',
+      headline: 'Aluguel de Geradores em São Paulo',
       description: 'Serviços profissionais Recreio dos Bandeirantes descrição',
       serviceIds: [
         'gerador-para-eventos',
@@ -364,19 +364,19 @@ export const defaultSiteData: SiteData = {
     },
     pages: {
       home: {
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros',
+        title: 'Aluguel de Geradores em São Paulo',
         description: 'Aluguel de geradores no RJ. 20kva a 500kva. Instalação inclusa. Solicite orçamento!',
       },
       sobre: {
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros',
+        title: 'Aluguel de Geradores em São Paulo',
         description: 'Conheça a Geradores Brasil, especialista em aluguel de geradores em Rio de Janeiro.',
       },
       contato: {
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros',
+        title: 'Aluguel de Geradores em São Paulo',
         description: 'Entre em contato com a Geradores Brasil. Orçamento grátis para aluguel de geradores em Rio de Janeiro.',
       },
       servicos: {
-        title: 'Aluguel de Geradores no Rio de Janeiro: seo bruno medeiros',
+        title: 'Aluguel de Geradores em São Paulo',
         description: 'Confira todos os serviços de aluguel de geradores oferecidos pela Geradores Brasil em Rio de Janeiro.',
       },
     },
